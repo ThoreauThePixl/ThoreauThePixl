@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding, making web games, and video games
 - 🌱 I’m currently learning html, C++, javascript, gdscript
 - 💞️ I’m looking to collaborate on video games
-- 📫 How to reach me Discord: ihave70alternativeaccounts#0747
+- 📫 How to reach me - Discord: ihave70alternativeaccounts#0747
+- I love fortnite 
 
 <!---
 ThoreauThePixl/ThoreauThePixl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
